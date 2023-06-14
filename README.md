@@ -20,5 +20,5 @@ Analista de suporte N1, em busca de uma oportunidade para atuar na area de progr
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-
+<br>
 Apaixonado por tecnologia, musica, arte, games e café ☕.
